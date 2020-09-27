@@ -74,7 +74,7 @@ ul, li {
   -ms-align-items: center;
   align-items: center;
   height: 480px;
-  background: url(img1.jpg)no-repeat center center fixed #C0C0C0;;
+  background: url(../img/img1.jpg)no-repeat center center fixed #C0C0C0;;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
